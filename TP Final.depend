@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1593149476 source:c:\users\programacionmauro\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1593155082 source:c:\users\programacionmauro\desktop\tp final\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593142170 c:\users\programacionmauro\desktop\tp final\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1593203130 source:c:\users\emanu\desktop\mauro triaca\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593188354 c:\users\emanu\desktop\mauro triaca\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1593202986 source:c:\users\emanu\desktop\mauro triaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1593208280 source:c:\users\alejo\desktop\pasar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1593215169 source:c:\users\alejo\desktop\pasar\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593211137 c:\users\alejo\desktop\pasar\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1491400450 source:c:\users\alejo\desktop\pasar\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593220224 source:c:\users\emanu\desktop\fulltp\pasar\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593219527 c:\users\emanu\desktop\fulltp\pasar\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+
+1593219692 source:c:\users\emanu\desktop\fulltp\pasar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"gotoxy.h"
+
+1491400450 source:c:\users\emanu\desktop\fulltp\pasar\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 c:\users\emanu\desktop\fulltp\pasar\gotoxy.h
+
+1593219692 source:c:\users\emanu\desktop\pasar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"gotoxy.h"
+
+1491399896 c:\users\emanu\desktop\pasar\gotoxy.h
+
+1593220347 source:c:\users\programacionmauro\downloads\tp.final\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593219527 c:\users\programacionmauro\downloads\tp.final\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+
+1491399896 c:\users\programacionmauro\downloads\tp.final\gotoxy.h
+
+1593220960 source:c:\users\programacionmauro\downloads\tp.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"gotoxy.h"
+
+1593220347 source:c:\users\programacionmauro\desktop\tp.final\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593221858 c:\users\programacionmauro\desktop\tp.final\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1491399896 c:\users\programacionmauro\desktop\tp.final\gotoxy.h
+
+1593221287 source:c:\users\programacionmauro\desktop\tp.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1593220347 source:c:\users\nestor\pictures\tp final ult\funcionscli_con.c
+	"prototipadosYcabeceras.h"
+
+1593221858 c:\users\nestor\pictures\tp final ult\prototipadosycabeceras.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1593221597 source:c:\users\nestor\pictures\tp final ult\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
